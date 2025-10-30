@@ -2,7 +2,7 @@
 A featured e-commerce web application built with Python, Django, and SQLlite
 
 ## 🚀 Live Demo
- http://127.0.0.1:8000/----link to the live project
+ http://127.0.0.1:8000/   link to the live project
  (do check and post all improvements and feedback in the comments)
  
 ## ✨ Features
